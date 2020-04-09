@@ -2,9 +2,20 @@
  [{"title": "Samson", "filename": "manoah-angel.jpg", "caption": "Angel talks to Manoah", "bible": {"book": "Judges", "chapter": "13", "verse": 20}},
   {"title": "Samson", "filename": "samson-lion.jpg", "caption": "Samson kills a lion", "bible": {"book": "Judges", "chapter": "14", "verse": 6}},
   {"title": "Samson", "filename": "samson-honey.png", "caption": "Samson eats honey from inside the lion's carcass", "bible": {"book": "Judges", "chapter": "14", "verse": 8}},
+   {"title": "Samson", "filename": "samson-feast.jpg", "caption": "Samson made a feast", "bible": {"book": "Judges", "chapter": "14", "verse": 10}},
+   {"title": "Samson", "filename": "samson-riddle.jpg", "caption": "Samson tells the Philistines a riddle", "bible": {"book": "Judges", "chapter": "14", "verse": 12}},
+   {"title": "Samson", "filename": "samson-riddle.jpg", "caption": "Samson tells the Philistines a riddle", "bible": {"book": "Judges", "chapter": "14", "verse": 13}},
+   {"title": "Samson", "filename": "samson-riddle.jpg", "caption": "Samson tells the Philistines a riddle", "bible": {"book": "Judges", "chapter": "14", "verse": 14}},
+   {"title": "Samson", "filename": "samson-wife-threatened.jpg", "caption": "Samson's wife pressured to reveal the answer to the riddle", "bible": {"book": "Judges", "chapter": "14", "verse": 15}},
+   {"title": "Samson", "filename": "samson-kills-30.jpg", "caption": "Samson kills 30 men and takes their clothes", "bible": {"book": "Judges", "chapter": "14", "verse": 19}},
    {"title": "Samson", "filename": "samson-ties-fox.jpg", "caption": "Samson ties the tails of two foxes together", "bible": {"book": "Judges", "chapter": "15", "verse": 4}},
    {"title": "Samson", "filename": "fox-fire.jpg", "caption": "Foxes tails on fire runs around the field and burns the crops", "bible": {"book": "Judges", "chapter": "15", "verse": 5}},
   {"title": "Samson", "filename": "samson-jawbone.jpg", "caption": "Samson picks up a jawbone", "bible": {"book": "Judges", "chapter": "15", "verse": 15}},
-  {"title": "Samson", "filename": "samson-betrayed.jpeg", "caption": "Samson is betrayed by Delilah", "bible": {"book": "Judges", "chapter": "16", "verse": 19}},
-  {"title": "Samson", "filename": "samson-pillar.jpg", "caption": "Samson pushes the temple pillars", "bible": {"book": "Judges", "chapter": "16", "verse": 29}}
-    ]}
+   {"title": "Samson", "filename": "samson-meets-delilah.jpg", "caption": "Samson meets Delilah", "bible": {"book": "Judges", "chapter": "16", "verse": 1}},
+  {"title": "Samson", "filename": "samson-destroys-gate.jpg", "caption": "Samson destroys city gate in order to escape from the Philistines", "bible": {"book": "Judges", "chapter": "16", "verse": 3}},
+   {"title": "Samson", "filename": "samson-betrayed.jpeg", "caption": "Samson is betrayed by Delilah", "bible": {"book": "Judges", "chapter": "16", "verse": 19}},
+   {"title": "Samson", "filename": "samson-blind.jpg", "caption": "Samson's eyes were put out ", "bible": {"book": "Judges", "chapter": "16", "verse": 21}},
+   {"title": "Samson", "filename": "samson-grinder-house.jpg", "caption": "Samson works as a slave in the grinder house", "bible": {"book": "Judges", "chapter": "16", "verse": 21}},
+   {"title": "Samson", "filename": "samson-between-pillars.jpeg", "caption": "Samson stands in between two pillars", "bible": {"book": "Judges", "chapter": "16", "verse": 29}},
+   {"title": "Samson", "filename": "samson-destroys-temple.jpg", "caption": "Samson prays and destroys the temple and kills the Philistines", "bible": {"book": "Judges", "chapter": "16", "verse": 30}}
+ ]}
